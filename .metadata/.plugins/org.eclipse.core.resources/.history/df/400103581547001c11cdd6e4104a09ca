@@ -1,0 +1,5 @@
+package com.franksAPI.models;
+
+public class Quote {
+
+}
